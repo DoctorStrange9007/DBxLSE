@@ -72,43 +72,43 @@ FX-Data
 
     P1a1_Statistical_Learning_Models.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P1a1_Statistical_Learning_Models.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P1a1_Statistical_Learning_Models.ipynb
 
 - **Section 1(2)**: LSTM Model
 
     P1a2_LSTM_Model.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P1a2_LSTM_Model.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P1a2_LSTM_Model.ipynb
 
 - **Section 2(1)**: PFI (Permutation Feature Importance)
 
     P1b1_PFI.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P1b1_PFI.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P1b1_PFI.ipynb
 
 - **Section 2(2)**: SP LIME (Submodular Pick Local Interpretable Model-agnostic Explanations)
 
     P1b2_SP_LIME.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P1b2_SP_LIME.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P1b2_SP_LIME.ipynb
 
 - **Section 2(3)**: XGBoost Built-in Feature Importance, calculated by the average gain across all splits the feature is used in
 
     P1b3_XGB_Feature_Importance.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P1b3_XGB_Feature_Importance.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P1b3_XGB_Feature_Importance.ipynb
 
 - **Section 3(1)**: Comparing the above interpretability methods in a specific perspective
 
     P1c1_SP_LIMEvsPFIvsRandomvsXGB.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P1c1_SP_LIMEvsPFIvsRandomvsXGB.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P1c1_SP_LIMEvsPFIvsRandomvsXGB.ipynb
 
 - **Section 3(2)**: Concatenate and visualize the machine learning method performance evaluation form, and visualize the research results of the interpretability method section
 
     P1c2_table.ipynb
-  
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P1c2_table.ipynb
+
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P1c2_table.ipynb
 
 ---
 
