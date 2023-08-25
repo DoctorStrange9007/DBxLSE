@@ -40,7 +40,7 @@ https://github.com/TA-Lib/ta-lib-python#mac-os-x:~:text=dir%20ta%2Dlib-,Windows,
 
 The Example_For_Reproduce.ipynb file shows how to easily reproduce our work.
 
-https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/Pipeline/Example_For_Reproduce.ipynb
+https://github.com/DoctorStrange9007/DBxLSE/blob/main/Pipeline/Example_For_Reproduce.ipynb
 
 The zip file contains all the relevant h5 files that will help you reproduce our results exactly. The only thing you need to do is to save all py files and zip files to your working path, then unzip those zip files.
 
