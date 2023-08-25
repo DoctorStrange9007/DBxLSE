@@ -204,37 +204,37 @@ Model weights, stored in the h5 files
 
     Excels_and_CSVs/Part_1_result_new
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/tree/main/Excels_and_CSVs/Part_1_result_new
+        https://github.com/DoctorStrange9007/DBxLSE/tree/main/Excels_and_CSVs/Part_1_result_new
 
 - **Monthly Sharpe ratio results**
 
     Excels_and_CSVs/Sharpe_table_new.csv
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/Excels_and_CSVs/Sharpe_table_new.csv
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/Excels_and_CSVs/Sharpe_table_new.csv
 
 - **Monthly accumulative profit results**
 
     Excels_and_CSVs/Monthly_accumulative_profit.csv
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/Excels_and_CSVs/Monthly_accumulative_profit.csv
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/Excels_and_CSVs/Monthly_accumulative_profit.csv
 
 - **Best and worst performing month results**
 
     Excels_and_CSVs/BnW_Month_new.csv
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/Excels_and_CSVs/BnW_Month_new.csv
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/Excels_and_CSVs/BnW_Month_new.csv
   
 - **PFI results for best and worst performing months** 
 
     Excels_and_CSVs/Strategy_PFI_BnW_Month.xlsx
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/Excels_and_CSVs/Strategy_PFI_BnW_Month.xlsx
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/Excels_and_CSVs/Strategy_PFI_BnW_Month.xlsx
 
 - **PFI results for best and worst performing periods** 
 
     Excels_and_CSVs/Strategy_PFI_Cum_Month.xlsx
-  
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/Excels_and_CSVs/Strategy_PFI_Cum_Month.xlsx
+
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/Excels_and_CSVs/Strategy_PFI_Cum_Month.xlsx
   
 ---
 
