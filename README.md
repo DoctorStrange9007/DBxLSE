@@ -23,7 +23,7 @@ The following are the file names and locations in this repository of the codes a
 
 ## **Report**
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/GROUP3capstone.pdf
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/GROUP3capstone.pdf
 
 ---
 
@@ -33,7 +33,7 @@ This section contains all datasets used in the research.
 
 FX-Data
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/tree/main/FX-Data
+        https://github.com/DoctorStrange9007/DBxLSE/tree/main/FX-Data
 
 ---
 ## **Codes**
@@ -43,26 +43,26 @@ FX-Data
 - **Section 1**: Data download and feature engineering
 
     F1_data_download.ipynb
-  
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/F1_data_download.ipynb
+
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/F1_data_download.ipynb
 
 - **Section 2(1)**: Exploratory data analysis
 
     F2a_EDA.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/F2a_EDA.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/F2a_EDA.ipynb
 
 - **Section 2(2)**: Feature selection with SFFS (Sequential Forward Feature Selection)
 
     F2b_Feature_Selection.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/F2b_Feature_Selection.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/F2b_Feature_Selection.ipynb
 
 - **General**: Contains all datasets split and processing functions that needed in follow-up research
 
     Data_Preparation.ipynb
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/Data_Preparation.ipynb
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/Data_Preparation.ipynb
 
 ---
 
