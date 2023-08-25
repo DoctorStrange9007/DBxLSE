@@ -117,20 +117,20 @@ FX-Data
 - **Section 1**: Trading model construction, plotting model performance, calculating monthly Sharpe ratio, and monthly cumulative return
 
     P2a_Strategy_PnL.ipynb
-  
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P2a_Strategy_PnL.ipynb
+
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P2a_Strategy_PnL.ipynb
 
 - **Section 2(1)**: Find the best and worst months in each market based on the Sharpe ratio and use PFI to analyze which technical indicators play major roles in the best and worst months
 
     P2b1_BnW_Month_PFI.ipynb
-  
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P2b1_BnW_Month_PFI.ipynb
+
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P2b1_BnW_Month_PFI.ipynb
 
 - **Section 2(2)**: Find the best and worst performing periods in each market based on the monthly cumulative return and use PFI to analyze which technical indicatorsplay major roles in the best performing period and the worst performing period
 
     P2b2_BnW_Cumulative_Month_PFI.ipynb
-  
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/blob/main/P2b2_BnW_Cumulative_Month_PFI.ipynb
+
+        https://github.com/DoctorStrange9007/DBxLSE/blob/main/P2b2_BnW_Cumulative_Month_PFI.ipynb
 
 ---
 
@@ -142,19 +142,19 @@ Model weights, stored in the h5 files
 
     model_weights
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/tree/main/model_weights
+        https://github.com/DoctorStrange9007/DBxLSE/tree/main/model_weights
 
 - **LSTM weights**
 
     LSTM_for_FX
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/tree/main/LSTM_for_FX
+        https://github.com/DoctorStrange9007/DBxLSE/tree/main/LSTM_for_FX
 
 - **XGBoost weights (for trading strategy part)**
 
     Strategy_XGB_weight
 
-        https://github.com/lse-st498/P3_FeatureImportance_2022_23/tree/main/Strategy_XGB_weight
+        https://github.com/DoctorStrange9007/DBxLSE/tree/main/Strategy_XGB_weight
 
 ---
 
